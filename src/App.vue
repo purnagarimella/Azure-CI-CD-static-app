@@ -2,7 +2,7 @@
   <div id="app">
 
     <h1>Gen Ai Every Where :)</h1>
-	<h2>Lets Rock with Gen Ai predictions</h2>
+	<h2>Lets Rock and win with Gen Ai predictions</h2>
     <img
       alt="Vue logo"
       style="width: 100px; height: 100px"
